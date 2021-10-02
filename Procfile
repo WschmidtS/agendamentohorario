@@ -1,0 +1,1 @@
+web: gunicorn mostracultural.wsgi --log-file -
